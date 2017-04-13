@@ -3,3 +3,5 @@ class GemHelloArtifactory
     puts "Hello world!"
   end
 end
+
+GemHelloArtifactory.hi
